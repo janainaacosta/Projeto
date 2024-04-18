@@ -1,0 +1,17 @@
+.container-buttons{
+    display: flex;
+}
+
+.btn-lis-add{
+    width: 100px;
+    height: 40px;
+    margin: 10px;
+    background-color: #826de8;
+    border: none;
+    border-radius: 5px;
+    color: #ffff;
+    font-weight: bold;
+}
+button{
+    cursor: pointer;
+}
