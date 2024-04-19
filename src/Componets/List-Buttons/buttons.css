@@ -2,16 +2,24 @@
     display: flex;
 }
 
-.btn-lis-add{
+.btn-lis-add, .btn-lis-listar{
     width: 100px;
     height: 40px;
     margin: 10px;
-    background-color: #826de8;
     border: none;
     border-radius: 5px;
     color: #ffff;
     font-weight: bold;
 }
+
+.btn-lis-add{
+    background-color: #826de8;
+}
+
+.btn-lis-listar{
+    background-color: #9e9bab;
+}
+
 button{
     cursor: pointer;
 }
