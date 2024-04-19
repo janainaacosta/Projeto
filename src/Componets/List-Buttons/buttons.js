@@ -7,7 +7,7 @@ function Buttons() {
                 <button className="btn-lis-add">Listar</button>
             </div>
             <div>
-            <button className="btn-lis-add">Adicionar</button>
+            <button className="btn-lis-listar">Adicionar</button>
             </div>
         </div>
     )
